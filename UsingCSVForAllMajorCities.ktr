@@ -485,7 +485,7 @@
 lat_value=Latitude.getNumber()
 lon_value=Longitude.getNumber()
 
-var api_key = '63081c3526354998c2d850a4dd128ad9'
+var api_key = '{your_api_key}'
 
 url_api='https://api.openweathermap.org/data/2.5/weather?lat='+lat_value+'&amp;lon='+lon_value+'&amp;appid='+api_key
 
